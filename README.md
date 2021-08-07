@@ -15,5 +15,5 @@ All these courses equal upto about more than 300 hours of coursework. Frontend a
 
 ## Certifications:
 
-<img src="Certs/BAND.jpg" width=500>
+<img src="Certs/BAND.jpg" width=750>
 
