@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sdthaker.visitor-badge)
 
-# Backend-Projects
+# Backend-Web-Projects
 
 This repo covers all the projects that I built using the coursework provided by [LinkedIn Learning](https://www.linkedin.com/learning/) courses namely: 
 * [Become a Node.js Developer](https://www.linkedin.com/learning/paths/become-a-node-js-developer)
