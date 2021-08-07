@@ -7,6 +7,7 @@ This repo covers all the projects that I built using the coursework provided by 
 * [Advance Your Node.js Skills](https://www.linkedin.com/learning/paths/advance-your-node-js-skills)
 * [Become a Back-End Developer](https://www.linkedin.com/learning/paths/become-a-back-end-web-developer)
 * [Become a RESTful API Developer](https://www.linkedin.com/learning/paths/become-a-restful-api-developer)
+
 All these courses equal upto about 70 hours of coursework.
 
 ## Technologies used:
