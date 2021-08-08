@@ -1,0 +1,1 @@
+This project focuses on REST API concept and is a very basic implementation of backend code. It uses the routes, namely, `GET`, `POST`, `PUT` & `DELETE` to persist user data into MongoDB. It doesnt have any front end code and to fetch the data persisted into the database, Postman was used.
