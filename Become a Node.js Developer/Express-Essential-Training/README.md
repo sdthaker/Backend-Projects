@@ -1,6 +1,6 @@
 # Express Essential Training
 
-I learnt how to get started with Express.js. Learnt how to build an application with the Express application generator. Worked with essential routing concepts, including middlewares, and dived into a few advanced topics, including how to debug an Express application and use Express behind a proxy.
+I learnt how to get started with Express. Learnt how to build an application with the Express application generator. Worked with essential routing concepts, including middlewares, and dived into a few advanced topics, including how to debug an Express application and use Express behind a proxy.
 
 ## Learning objectives
 * Creating a basic data endpoint
