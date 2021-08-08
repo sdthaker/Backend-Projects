@@ -1,1 +1,7 @@
-This project focuses on REST API concept and is a very basic implementation of backend code. It uses the routes, namely, `GET`, `POST`, `PUT` & `DELETE` to persist user data into MongoDB. It doesnt have any front end code and to fetch the data persisted into the database, Postman was used.
+Created a simple, RESTful web API with Node.js—the popular JavaScript runtime environment—and the Express web framework. Set up the Express server and testing environment, and created the endpoints needed to add, update, and delete data from a MongoDB database. Served static files such as images with this API. Additionally explored libraries that can help streamline API development, such as Koa and LoopBack.
+
+## Learning objectives
+* Setting up a project and a server
+* Setting up a database and schema
+* Creating POST, GET, PUT, and DELETE endpoints
+* Serving files
