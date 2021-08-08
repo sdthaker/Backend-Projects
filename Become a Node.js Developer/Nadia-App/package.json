@@ -4,7 +4,7 @@
   "description": "Nadia's Garden Reservations",
   "main": "bin/www",
   "repository": "git@github.com:fluxsauce/nadia.git",
-  "author": "Jon Peck <jpeck@fluxsauce.com>",
+  "author": "Jon Peck",
   "license": "MIT",
   "private": true,
   "scripts": {
