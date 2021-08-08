@@ -1,6 +1,6 @@
 # Nadia’s Garden Restaurant
 
-This is a Node.js and Express website that accepts and lists restaurant reservations. Improve it with the lynda.com course, "Node.js: Testing and Code Quality" by Jon Peck.
+This is a Node.js and Express website that accepts and lists restaurant reservations.
 
 The backend contains intentional mistakes, like weak validation on email addresses. Inconsistencies in coding style are also intentional.
 
@@ -64,3 +64,18 @@ The conversion:
 - Converted HTML into Jade / Pug templates using http://html2jade.org/
 
 The front end should be mostly unchanged from the original.
+
+## Learning objectives
+* What is code quality?
+* Testing and code quality fundamentals
+* Coding conventions and standards
+* Creating and enforcing coding standards
+* Unit, integration, and functional testing
+* Test-driven development test specificatons
+* Behavior-driven development test specifications
+* Finding errors with linting
+* Extending an ESLint shareable config
+* Validating correctness with unit testing
+* Replacing and inspecting with stubs, spies, and mocks
+* Code coverage and why it matters
+* Coverage with continuous integration
