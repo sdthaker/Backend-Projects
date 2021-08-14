@@ -5,7 +5,6 @@
 This repo covers all the projects that I built using the coursework provided by [LinkedIn Learning](https://www.linkedin.com/learning/) courses namely: 
 * [Become a Node.js Developer](https://www.linkedin.com/learning/paths/become-a-node-js-developer)
 * [Advance Your Node.js Skills](https://www.linkedin.com/learning/paths/advance-your-node-js-skills)
-* [Become a Back-End Developer](https://www.linkedin.com/learning/paths/become-a-back-end-web-developer)
 * [Become a RESTful API Developer](https://www.linkedin.com/learning/paths/become-a-restful-api-developer)
 
 All these courses equal upto about more than 300 hours of coursework. Front-End and in odd cases, some Back-End code was mostly provided in the project files and I had to build upon these applications as per requirements.
