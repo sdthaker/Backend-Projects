@@ -1,4 +1,4 @@
-# rock-paper-scissors
+# Rock Paper Sscissors
 
 A multi-player Rock, Paper, Scissors game written in Node.js.
 
@@ -68,3 +68,14 @@ docker-compose down
 pm2 kill
 ```
 
+
+## Learning objectives: 
+* Building a troubleshooting mindset
+* Why measure performance?
+* What's a microservice architecture?
+* Managing microservices with PM2
+* Effective logging strategies
+* Debugging Node.js applications
+* Benchmarking performance
+* Profiling code execution
+* Knowing what to optimize
