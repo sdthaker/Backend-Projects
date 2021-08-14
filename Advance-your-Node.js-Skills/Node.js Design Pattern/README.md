@@ -1,6 +1,7 @@
+# Node.js Design Patterns
 Worked on 13 of the most popular object-oriented design patterns as applied to Node.js. Learnt essential creational and structural patterns to help solve common coding challenges, while introducing best practices that will keep solutions consistent, complete, and correct. Implemented and improved these patterns so that they are optimized for the Node library.
 
-Learning objectives:
+## Learning objectives:
 * Design patterns and anti-patterns
 * Singleton pattern
 * Prototype pattern
