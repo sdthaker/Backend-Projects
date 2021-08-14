@@ -1,4 +1,4 @@
-# Rock Paper Sscissors
+# Rock Paper Scissors App
 
 A multi-player Rock, Paper, Scissors game written in Node.js.
 
