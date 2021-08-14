@@ -1,14 +1,17 @@
 # Roux Meetups App
-Worked on basic microservices concepts and putting them into practical action in a Node.js context, using Node.js to build out a microservices architecture from scratch. Worked on essential concepts like service discovery and resilience. Explored a common use case in which an existing monolithic app was split into individual services. 
+Learnt integrating a database, build a proper user authentication and authorization system, securely upload files, process, and serve images, and deploy Express apps to production (Heroku). Built a login form, improving performance with a cluster module, and securing the application. 
 
 ## Learning objectives
-* Setting up a service registry
-* Registering and deregistering services
-* Versioning and load balancing
-* Adding the service logic
-* Working with the circuit breaker
-* Using queues
-* Consuming and storing feedback
+* Creating a template engine
+* Using MongoDB and Mongoose for user management
+* Authenticating and authorizing users
+* Adding cookies and sessions to Express
+* Creating a login form with Passport
+* Handling file uploads
+* Storing and serving images
+* Deploying an Express application
+* Securing an Express application
+* Running behind a web server
 
 ## Deployment
 [Roux Meetups App](https://roux-meetup.herokuapp.com/)
